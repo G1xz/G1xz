@@ -1,8 +1,14 @@
-<!-- Tecnologias -->
+<!-- Apresentação -->
 <div align="center">
-## 📍Resumindo, eu sou o guilherme 📍
-  </div>
-<div align="center">
+
+<h1>📍 Olá, eu sou o <strong>Guilherme</strong> 📍</h1>
+  
+<p>
+  Desenvolvedor em construção 🚀<br/>
+  Codando entre uma run e outra 🎮
+</p>
+
+</div>
 
 ## 💻 Tecnologias ⚡
 
