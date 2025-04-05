@@ -1,5 +1,7 @@
 <!-- Tecnologias -->
-## 💻 Tecnologias ⚡
+<div align="center">
+##  📍Bom, resumindo eu sou o Guilherme📍
+  </div>
 <div align="center">
 
 ## 💻 Tecnologias ⚡
