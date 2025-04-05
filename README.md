@@ -1,6 +1,6 @@
 <!-- Tecnologias -->
 <div align="center">
-##  📍Bom, resumindo eu sou o Guilherme📍
+## 📍Resumindo, eu sou o guilherme 📍
   </div>
 <div align="center">
 
