@@ -29,17 +29,10 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=G1xz&hide=stars,prs,issues,contribs&show_icons=true&icon_color=FF9C00&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&hide_rank=true" height="150px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1xz&layout=compact&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true" height="150px" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G1xz&theme=dark&background=0D1117&ring=FF9C00&fire=EB5454&currStreakNum=FF9C00&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=G1xz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=G1xz&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G1xz&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ---
@@ -47,7 +40,7 @@
 ### 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G1xz&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false&point=ff9c00&bg_color=0D1117&color=ffffff&line=ff9c00&area_color=ff9c00&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G1xz&radius=16&theme=react-dark&area=true&order=5&hide_border=true&point=ff9c00&line=ff9c00&area_color=ff9c00" width="100%" />
 </div>
 
 ---
@@ -55,7 +48,7 @@
 ### 🐍 Atividade no GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/G1xz/G1xz/output/github-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/G1xz/G1xz/output/github-snake-dark.svg" width="100%" alt="snake" />
 </div>
 
 ---
@@ -63,10 +56,6 @@
 ### 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.instagram.com/gui.jr_sz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-junior-068887299/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.instagram.com/gui.jr_sz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-junior-068887299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
