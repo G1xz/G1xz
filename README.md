@@ -1,4 +1,3 @@
-<!-- Apresentação -->
 <div align="center">
 
 <h1>📍 Olá, eu sou o <strong>Guilherme</strong> 📍</h1>
@@ -27,24 +26,22 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
-</div>
+<br/>
 
-
-
-<!-- Estatísticas -->
 <div align="center">
   
 ## 📊 Estatísticas  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G1xz&hide=stars,prs,issues,contribs&show_icons=true&icon_color=FF9C00&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&hide_rank=true&line_height=47)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1xz&card_width=400&layout=compact&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=G1xz&theme=transparent&hide_border=true&locale=pt_BR&card_width=900&background=0D1117&ring=FF9C00&fire=EB5454&sideNums=FF9C00&stroke=FFF8F8&currStreakNum=EB5454&currStreakLabel=FFF8F8&dates=90908E&sideLabels=FFF8F8)](https://git.io/streak-stats)
 
+  <img src="https://github-readme-stats.vercel.app/api?username=G1xz&hide=stars,prs,issues,contribs&show_icons=true&theme=dark&icon_color=FF9C00&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true&hide_rank=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1xz&layout=compact&theme=dark&bg_color=0d1117&title_color=fff8f8&text_color=90908e&locale=pt-br&hide_border=true" alt="Top Langs" />
+
+  <img src="https://nirzak-streak-stats.vercel.app?user=G1xz&theme=transparent&hide_border=true&locale=pt_BR&background=0D1117&ring=FF9C00&fire=EB5454&sideNums=FF9C00&stroke=FFF8F8&currStreakNum=EB5454&currStreakLabel=FFF8F8&dates=90908E&sideLabels=FFF8F8" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-<!-- Gráfico de Contribuições -->
 <div align="center">
   
 ## 📈 Gráfico de Contribuições  
@@ -54,17 +51,15 @@
 
 ---
 
-<!-- Animação da Cobra -->
 <div align="center">
   
 ## 🐍 Atividade no GitHub  
-  ![snake gif](https://github.com/G1xz/G1xz/blob/output/github-snake-dark.svg)  
+  ![snake gif](https://raw.githubusercontent.com/G1xz/G1xz/output/github-snake-dark.svg)  
 
 </div>
 
 ---
 
-<!-- Contato -->
 <div align="center">
 
 ## 🌐 Conecte-se comigo 📩  
